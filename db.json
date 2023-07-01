@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "HTML",
+      "description": "Học HTML dành cho người mới bắt đầu"
+    },
+    {
+      "name": "CSS",
+      "description": "Học CSS dành cho người mới bắt đầu",
+      "id": 2
+    },
+    {
+      "name": "Javascript",
+      "description": "Học Javascript dành cho người mới bắt đầu",
+      "id": 3
+    }
+  ]
+}
